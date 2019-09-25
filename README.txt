@@ -6,6 +6,8 @@ Uses libraries such as PyQt, NumPy, SciPy, PyQtGraph, MatPlotLib.
 
 Open Sourced with consent from Troy Borneman @ High Q Technologies
 
+![main2](https://user-images.githubusercontent.com/46338325/65607176-169e7b80-df7a-11e9-94d5-4ae87d704c5e.jpg)
+
 
 ## Installation
 First, install the runtime dependencies for this project by running
