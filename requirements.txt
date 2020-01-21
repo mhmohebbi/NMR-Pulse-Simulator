@@ -171,7 +171,7 @@ traitlets==4.0.0
 twine==1.6.3
 twitter==1.17.1
 validate-email==1.3
-validators==0.12.4
+validators==0.12.6
 ViTables==2.1
 Werkzeug==0.10.4
 winpython==1.2
