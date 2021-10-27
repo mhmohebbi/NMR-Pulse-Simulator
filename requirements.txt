@@ -26,7 +26,7 @@ cycler==0.9.0
 cyordereddict==0.2.2
 Cython==0.23.4
 cytoolz==0.7.4
-dask==0.7.5
+dask==2021.10.0
 datashape==0.4.7
 db.py==0.4.4
 decorator==4.0.4
