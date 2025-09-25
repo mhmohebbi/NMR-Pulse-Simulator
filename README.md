@@ -23,7 +23,7 @@ Open Sourced with consent from Troy Borneman @ High Q Technologies
 
 
 ## Installation
-First, install the runtime dependencies for this project by running
+First, install the runtime dependencies for this project by running:
 
 ```bash
     pip install -r requirements.txt
