@@ -67,7 +67,7 @@ llvmlite==0.6.0
 lmfit==0.9.1
 locket==0.2.0
 logilab-common==1.1.0
-lxml==3.4.4
+lxml==4.9.1
 Markdown==2.6.2
 MarkupSafe==0.23
 matplotlib==1.5.0rc3
