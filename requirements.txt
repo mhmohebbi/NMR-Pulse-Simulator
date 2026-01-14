@@ -101,7 +101,7 @@ pickleshare==0.5
 Pillow==3.0.0
 pkginfo==1.2.1
 prettytable==0.7.2
-psutil==3.2.2
+psutil==5.6.6
 PuLP==1.5.9
 py==1.4.30
 PyAudio==0.2.9
