@@ -103,7 +103,7 @@ pkginfo==1.2.1
 prettytable==0.7.2
 psutil==3.2.2
 PuLP==1.5.9
-py==1.4.30
+py==1.10.0
 PyAudio==0.2.9
 pybars3==0.9.1
 pycparser==2.14
