@@ -131,7 +131,7 @@ pytz==2015.6
 pyusb==1.0.2
 PyVISA==1.9.1
 PyVISA-py==0.3.1
-pywin32==219
+pywin32==301
 PyYAML==3.11
 pyzmq==14.7.0
 qtconsole==4.1.0
